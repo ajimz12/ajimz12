@@ -1,5 +1,7 @@
 ### Buenas! 👋
-:computer: Actualmente estudiando Desarrollo de Aplicaciones Multiplataforma :computer:
+:mortar_board: Actualmente estudiando Desarrollo de Aplicaciones Multiplataforma :mortar_board:
+
+:computer:Técnico en Sistemas Microinformáticos y Redes:computer:
 
 :movie_camera: Pelis y Heavy Metal :guitar:
 
