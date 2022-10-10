@@ -1,5 +1,6 @@
-### Hi there 👋
-Actualmente estudiando Desarrollo de Aplicaciones Multiplataforma 💬
+### Buenas! 👋
+:computer: Actualmente estudiando Desarrollo de Aplicaciones Multiplataforma :computer:
+:movie_camera: Pelis y Heavy Metal :guitar:
 
 
 <!--
