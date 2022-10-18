@@ -6,7 +6,7 @@
 :movie_camera: Pelis y Heavy Metal :guitar:
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=alvarojimgil12)](https://open.spotify.com/user/alvarojimgil12)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=alvarojimgil12)
 
 
 <img src="https://komarev.com/ghpvc/?username=ajimz12&label=Profile%20views&color=0e75b6&style=flat" alt="ajimz12"/>
