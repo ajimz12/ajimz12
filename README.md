@@ -5,6 +5,10 @@
 
 :movie_camera: Pelis y Heavy Metal :guitar:
 
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+
+
 <img src="https://komarev.com/ghpvc/?username=ajimz12&label=Profile%20views&color=0e75b6&style=flat" alt="ajimz12"/>
 <!--
 **ajimz12/ajimz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
