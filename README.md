@@ -5,10 +5,6 @@
 
 :guitar: Heavy Metal :guitar:
 
-### Spotify Playing 
-[<img src="https://spotify-now-playing-ajimz12.vercel.app/api/spotify-playing" alt="ajimz12 Spotify Playing" width="350" />](https://open.spotify.com/user/ajimgil12)
-
-
 
 <img src="https://komarev.com/ghpvc/?username=ajimz12&label=Profile%20views&color=0e75b6&style=flat" alt="ajimz12"/>
 
