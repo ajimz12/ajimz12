@@ -6,7 +6,7 @@
 :guitar: Heavy Metal :guitar:
 
 
-[![Spotify]([https://spotify-now-playing-ajimz12.vercel.app](https://vercel.com/ajimz12/spotify-now-playing/9tgD1WfSbYdEZsFYyoZEcPCuNCrj)/api/spotify)](https://open.spotify.com/user/alvarojimgil12)
+[![Spotify](https://vercel.com/ajimz12/spotify-now-playing/9tgD1WfSbYdEZsFYyoZEcPCuNCrj)](https://open.spotify.com/user/ajimgil12)
 
 https://vercel.com/ajimz12/spotify-now-playing/9tgD1WfSbYdEZsFYyoZEcPCuNCrj
 
