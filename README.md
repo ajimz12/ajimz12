@@ -6,7 +6,9 @@
 :guitar: Heavy Metal :guitar:
 
 
-[![Spotify](https://[USER_NAME.vercel.app](https://spotify-now-playing-xi-three.vercel.app/)/api/spotify)](https://open.spotify.com/user/469c901691e34132a8b34a93ebeb60dc)
+[![Spotify](https://ajimz12.vercel.app/api/spotify)](https://open.spotify.com/user/ajimz12)
+
+
 
 
 
