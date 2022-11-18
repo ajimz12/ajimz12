@@ -7,7 +7,7 @@
 
 <p align="center>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="html5" width="120" height="80"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="html5" width="120" height="80"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="html5" width="120" height="60"/> </a>
 </p>
 
 
