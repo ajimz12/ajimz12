@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **alvarojimgil12@gmail.com**
 
-- 📄 Know about my experiences [Android Development, Java, Kotlin](Android Development, Java, Kotlin)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/alvaro27m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvaro27m" height="30" width="40" /></a>
