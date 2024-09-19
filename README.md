@@ -15,7 +15,8 @@
 </br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajimz12&show_icons=true&locale=en&layout=compact" alt="ajimz12" /></p>
-<p><img align="center" src="https://www.google.com/imgres?q=developer%20gif%20pixel%20art&imgurl=https%3A%2F%2Fmedia.dev.to%2Fcdn-cgi%2Fimage%2Fwidth%3D800%252Cheight%3D%252Cfit%3Dscale-down%252Cgravity%3Dauto%252Cformat%3Dauto%2Fhttps%253A%252F%252Fdev-to-uploads.s3.amazonaws.com%252Fuploads%252Farticles%252For68a2tqrbm5t5d36bwa.gif&imgrefurl=https%3A%2F%2Fdev.to%2Fbaransel%2Fpowerful-practices-every-new-developer-should-adopt-2j7d&docid=fG7rk6qz0obuyM&tbnid=n_HTZvMkvHMCwM&vet=12ahUKEwjrjsSXqc-IAxXMRfEDHbDOKb0QM3oECBoQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjrjsSXqc-IAxXMRfEDHbDOKb0QM3oECBoQAA" alt="ajimz12"/></p>
+
+<p><img align="center" src="[https://www.google.com/imgres?q=developer%20gif%20pixel%20art&imgurl=https%3A%2F%2Fmedia.dev.to%2Fcdn-cgi%2Fimage%2Fwidth%3D800%252Cheight%3D%252Cfit%3Dscale-down%252Cgravity%3Dauto%252Cformat%3Dauto%2Fhttps%253A%252F%252Fdev-to-uploads.s3.amazonaws.com%252Fuploads%252Farticles%252For68a2tqrbm5t5d36bwa.gif&imgrefurl=https%3A%2F%2Fdev.to%2Fbaransel%2Fpowerful-practices-every-new-developer-should-adopt-2j7d&docid=fG7rk6qz0obuyM&tbnid=n_HTZvMkvHMCwM&vet=12ahUKEwjrjsSXqc-IAxXMRfEDHbDOKb0QM3oECBoQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjrjsSXqc-IAxXMRfEDHbDOKb0QM3oECBoQAA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F52225385%2F2017-Pixel-Art%3Flocale%3Des_ES&psig=AOvVaw0Je_gUVCf2MythV1pAvkcT&ust=1726846108231000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjy5LGpz4gDFQAAAAAdAAAAABAd)" alt="gif"/></p>
 
 
 
