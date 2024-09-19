@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajimz12&show_icons=true&locale=en&layout=compact" alt="ajimz12" /></p>
 
-![coder]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![coder](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 
 <!--
