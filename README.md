@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajimz12&label=Profile%20views&color=b07ae6&style=flat" alt="ajimz12" /> </p>
 
-- 🌱 I’m currently learning **Javascript, PHP, React**
+- 🌱 I’m currently learning **Javascript, PHP and React**
 
 - 👨‍💻 All of my projects are available at [ajimz12.github.io](ajimz12.github.io)
 
