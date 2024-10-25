@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajimz12&label=Profile%20views&color=b07ae6&style=flat" alt="ajimz12" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajimz12&label=Profile%20views&color=b07ae6&style=flat" alt="ajimz12" /> </p>
 
 - 🌱 I’m currently learning **Javascript, PHP and React**
 
