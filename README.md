@@ -1,17 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">Newbie developer from Granada!</h3>
-
 <br>
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-<br>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ajimz12&label=Profile%20views&color=b07ae6&style=flat" alt="ajimz12" /> </p>
 
 <br>
