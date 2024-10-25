@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/114770098?v=4"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/114770098?v=4" style="border-radius: 50%; border: 3px solid #000;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
