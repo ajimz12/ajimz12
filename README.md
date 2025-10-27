@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Javascript, PHP and React**
+- 🌱 I’m currently learning **R & Python**
 
 - 👨‍💻 All of my projects are available at [ajimz12.github.io](ajimz12.github.io)
 
